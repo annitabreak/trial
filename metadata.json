@@ -1,0 +1,6 @@
+{
+  "name": "Helsinki Central Library Virtual Tour",
+  "description": "An immersive 360-degree interactive panorama tour of Helsinki's iconic Central Library (Oodi), featuring a sleek dark-aviation dashboard style with real-time stats and local clocks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
